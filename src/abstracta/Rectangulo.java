@@ -32,10 +32,10 @@ public class Rectangulo extends FiguraGeometrica {
     }
 
     void setLado1(float entrada) {
-
+        this.lado1=entrada;
     }
 
     void setLado2(float entrada) {
-
+        this.lado2=entrada;
     }
 }
